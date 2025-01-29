@@ -14,7 +14,7 @@ Then, install the EditionCrafter CLI:
 
 Next, follow the initial setup instructions below.
 
-## Initial Setup
+## Initial Setup 
 
 To setup setup your project:
 
