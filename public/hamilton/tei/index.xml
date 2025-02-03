@@ -30,7 +30,7 @@
 			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0005"/>
 		</surface>
 	</facsimile>
-	<sourceDoc xml:id="hamilton">
+	<sourceDoc xml:id="transcription">
 		<surface facs="#f001">
 			<line>My Dear sir</line>
 			<line/>
