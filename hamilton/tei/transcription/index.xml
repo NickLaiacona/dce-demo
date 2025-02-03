@@ -1,36 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header">
-		<fileDesc>
-			<titleStmt>
-				<title>Alexander Hamilton Papers: 2017 Addition, 1790-1804; Schuyler, Philip, to Alexander Hamilton, 1793-1803</title>
-			</titleStmt>
-			<publicationStmt>
-				<p/>
-			</publicationStmt>
-			<sourceDesc>
-				<p/>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
-	<facsimile sameAs="https://www.loc.gov/item/mss246120872/manifest.json" xml:id="facs-1">
-		<surface xml:id="f001" ulx="0" uly="0" lrx="3360" lry="5271" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0002">
-			<label>Page 2</label>
-			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0002"/>
-		</surface>
-		<surface xml:id="f002" ulx="0" uly="0" lrx="3360" lry="5271" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0003">
-			<label>Page 3</label>
-			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0003"/>
-		</surface>
-		<surface xml:id="f003" ulx="0" uly="0" lrx="3360" lry="5271" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0004">
-			<label>Page 4</label>
-			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0004"/>
-		</surface>
-		<surface xml:id="f004" ulx="0" uly="0" lrx="5271" lry="3360" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0005">
-			<label>Page 5</label>
-			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mss24612a:044:07:0005"/>
-		</surface>
-	</facsimile>
-	<sourceDoc xml:id="transcription">
+<sourceDoc xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription">
 		<surface facs="#f001">
 			<line>My Dear sir</line>
 			<line/>
@@ -128,4 +96,3 @@
 			<line/>
 		</surface>
 	</sourceDoc>
-</TEI>
